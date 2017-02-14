@@ -1,4 +1,4 @@
-.flashcard {
+.flashcard, .flashcard2 {
   background-image: url("../img/flashcard.gif");
   width: 500px;
   height: 300px;
@@ -7,4 +7,22 @@
 
 body {
   text-align: center;
+}
+
+.initially-hidden, .initially-hidden2 {
+  display: none;
+}
+
+h2 {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.flashcard p {
+  padding: 0px 15px 0px 15px;
+  line-height: 25px;
+}
+
+ul {
+list-style-type: none;
 }
