@@ -1,4 +1,4 @@
-.flashcard, .flashcard2 {
+.flashcard, .flashcard2, .flashcard3 {
   background-image: url("../img/flashcard.gif");
   width: 500px;
   height: 300px;
@@ -9,7 +9,7 @@ body {
   text-align: center;
 }
 
-.initially-hidden, .initially-hidden2 {
+.initially-hidden, .initially-hidden2, .initially-hidden3 {
   display: none;
 }
 
